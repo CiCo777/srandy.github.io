@@ -1,0 +1,203 @@
+body {
+    font-family: Consolas, sans-serif;
+    background: #111;
+    margin: 0;
+    color: white;
+    overflow: hide;
+}
+
+a {
+    color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+#ihrisko{ 
+    width: 450px;
+    height: 450px; 
+    margin: 20px auto;
+    background-color: grey;
+}
+
+
+
+
+#kocka{
+    width: 50px; 
+    height: 50px;
+    border-radius: 100%;
+    background-color: red;
+    position: relative;
+}
+
+
+
+
+#ver11, #ver12, #ver13, #ver21, #ver22, #ver23, #ver24, #ver25, #ver31, #ver32, #ver33, #ver34, #ver35, #ver36, #ver37, #ciel{
+    width: 50px;
+    height: 50px;
+}
+
+#ver11 {
+    margin: 0px 95px -50px 150px;
+    background-color: brown;
+}
+
+#ver12 {
+    margin: 50px 0px -100px 150px;
+    background-color: blue;
+}
+
+#ver13 {
+    margin: 100px 0px -150px 150px;
+    background-color: purple;
+}
+
+#ver21 {
+    margin: 0px 0px -50px 250px;
+    background-color: green;
+}
+
+#ver22 {
+    margin: 50px 0px -100px 250px;
+    background-color: orange;
+}
+
+#ver23 {
+    margin: 100px 0px -150px 250px;
+    background-color: rgb(255, 0, 0); 
+}
+
+#ver24 {
+    margin: 150px 0px -200px 250px;
+    background-color: rgb(24, 24, 121); 
+}
+
+#ver25 {
+    margin: 200px 0px -250px 250px;
+    background-color: rgb(206, 45, 206); 
+}
+
+#ver31 {
+    margin: 0px 0px -50px 350px;
+    background-color: rgb(12, 212, 12); 
+}
+
+#ver32 {
+    margin: 50px 0px -100px 350px;
+    background-color: black; 
+}
+
+#ver33 {
+    margin: 100px 0px -150px 350px;
+    background-color: purple; 
+}
+
+#ver34 {
+    margin: 150px 0px -200px 350px;
+    background-color: brown; 
+}
+
+#ver35 {
+    margin: 200px 0px -250px 350px;
+    background-color: blue; 
+}
+
+#ver36 {
+    margin: 250px 0px -300px 350px;
+    background-color: rgb(250, 214, 12); 
+}
+
+#ver37 {
+    margin: 300px 0px -350px 350px;
+    background-color: rgb(206, 45, 206); 
+}
+
+#hor11, #hor12, #hor13, #hor21, #hor22, #hor23, #hor24, #hor25, #hor31, #hor32, #hor33, #hor34, #hor35, #hor36, #hor37{
+    width: 50px;
+    height: 50px;
+}
+
+#hor11 {
+    margin: 150px 0px -200px 0px;
+    background-color: black; 
+}
+
+#hor12 {
+    margin: 150px 0px -200px 50px;
+    background-color: orange; 
+}
+
+#hor13 {
+    margin: 150px 0px -200px 100px;
+    background-color: green; 
+}
+
+#hor21 {
+    margin: 250px 0px -300px 0px;
+    background-color: rgb(12, 212, 12); 
+}
+
+#hor22 {
+    margin: 250px 0px -300px 50px;
+    background-color: purple; 
+}
+
+#hor23 {
+    margin: 250px 0px -300px 100px;
+    background-color: brown; 
+}
+
+#hor24 {
+    margin: 250px 0px -300px 150px;
+    background-color: blue; 
+}
+
+#hor25 {
+    margin: 250px 0px -300px 200px;
+    background-color: black; 
+}
+
+#hor31 {
+    margin: 350px 0px -400px 0px;
+    background-color: orange; 
+}
+
+#hor32 {
+    margin: 350px 0px -400px 50px;
+    background-color: pink; 
+}
+
+#hor33 {
+    margin: 350px 0px -400px 100px;
+    background-color: green; 
+}
+
+#hor34 {
+    margin: 350px 0px -400px 150px;
+    background-color: rgb(24, 24, 121); 
+}
+
+#hor35 {
+    margin: 350px 0px -400px 200px;
+    background-color: rgb(250, 214, 12); 
+}
+
+#hor36 {
+    margin: 350px 0px -400px 250px;
+    background-color: rgb(214, 45, 214); 
+}
+
+#hor37 {
+    margin: 350px 0px -400px 300px;
+    background-color: rgb(12, 212, 12); 
+}
+
+#ciel {
+    margin: 400px 0px -450px 400px;
+    border-radius: 100%;
+    background-color: goldenrod;
+}
